@@ -1,2 +1,2 @@
 # Kingdom
- a Flask and SQLAlchemy web app to manage, analyze and optimize your real estate portfolio. Get valuations, maintenance reminders, and investment recommendations. Integrates with Airbnb and HomeAway. This repository contains the source code, organized using best practices.
+Real Estate Portfolio Manager is a React Native app for managing and optimizing your real estate portfolio. Track updates, repairs, and analytics. Integrate with hosting sites like Airbnb. This repo contains the source code, organized using best practices for React Native projects
